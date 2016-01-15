@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Hello 2016."
+date:   2016-01-1 07:00:00
+categories: new year
+description: "Welcome to by my Blog"
+
+---
+
+So today I have made up my mind to start a new blog. I have no idea where to start, or what I will be writing about. Am clueless at the moment. 
+
+But few years from now, I want to tell people that when I started this blog a few years ago, I had no idea what I was going to write about. But something keeps telling me to start writing down my ideas.
+
+FAST 
+
+
+FORWARD 
+
+
+TWO 
+
+
+YEARS 
+
+
+FROM 
+
+
+NOW
+
+
+
+Let leave that as a secrete.
+
+
+<img src="{{ site.url }}/assets/article_images/hello2016/nnamso1.jpeg"/>
+
+
+

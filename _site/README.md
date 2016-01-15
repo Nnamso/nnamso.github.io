@@ -1,0 +1,1 @@
+To run on vagrant type `jekyll serve --host 0.0.0.0` and open `0.0.0.0:4000` on your browser

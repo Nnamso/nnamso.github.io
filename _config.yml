@@ -1,0 +1,67 @@
+# Build settings
+markdown: redcarpet
+highlighter: pygments
+  
+# Site settings
+title: "Nnamso Anthony"
+description: > # this means to ignore newlines until "email:"
+   A Computer Enginner with a keyboard 
+
+email: nnamsoanthony@gmail.com
+#blog logo
+logo: "/assets/images/author.jpg"
+# blog cover
+cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+
+name: 'Nnamso Anthony'
+author: 'Nnamso Anthony'
+author_image: "/assets/images/author.jpg"
+
+paginate:	5
+
+url: "http://nnamso.github.io" # the base hostname & protocol for your site
+baseurl: ""
+
+#used to display twitter cards
+twitter_handle: '@nnamso_'
+
+# social icons and sharing options
+social:
+  - icon:	twitter
+    url:	https://twitter.com/nnamso_
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+
+  #- icon:	facebook
+  #  url:	https://facebook.com/
+    #desc: Connect with me facebook
+   # share_url: https://www.facebook.com/sharer.php
+    #share_title: ?t=
+    #share_link: "&amp;u="
+
+  - icon:	github
+    url:	https://github.com/Nnamso
+    desc:	Find me on GitHub
+    share_url:
+    share_title:
+    share_link:
+
+  - icon:	linkedin
+    url:	https://gh.linkedin.com/in/nnamso-anthony-194a8a37
+    desc:	Find me on linkedin
+    share_url:
+    share_title:
+    share_link:
+
+    #  - icon:  google-plus
+#    url: https://google.com/???
+#    desc:  Add me on google+
+#    share_url:
+#    share_title:
+#    share_link:
+
+
+    # Gems
+gems: [jekyll-paginate]
