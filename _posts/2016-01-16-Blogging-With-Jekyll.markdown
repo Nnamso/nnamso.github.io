@@ -8,7 +8,6 @@ description: "Blogging With Jekyll"
 ---
 
 
-<img src="{{ site.url }}/assets/images/jekyll-logo.png"/>
 
 <img src="{{ site.url }}/assets/article_images/blogging-with-jekyll/jekyll-logo.png"/>
 
