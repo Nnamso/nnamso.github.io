@@ -7,9 +7,10 @@ description: "Cognitive Virality"
 
 ---
 
-<img src="{{ site.url }}/assets/article_images/blogging-with-jekyll/cognitive-virality.png"/>
+<img src="{{ site.url }}/assets/article_images/cognitive-virality/cognitive-virality.png"/>
 
 ###This research is as a result of my personal interest on why things go viral.
+
 
 Virality of content circulated rapidly and widely from one Internet user to another: a viral ad campaign | the video went viral and was seen by millions.
 
