@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Celestine is a Software Engineer at Konga, an $80m VC-backed eCommerce company. 
+He is an Engineer who is motivated by challenges and dedicated to excellence. He is current with the most recent technologies and best practices in the IT field, and comfortable working independently and even very productive in team environments. He is a big picture thinker with likeness for detail and transparency.
+He has worked on a wide range of projects, which includes Banking and Insurance Applications, Online Advertisement Platform, Expert systems, Robotics, Value Added Service, SMS apps and e-Payment systems.
 
-In this role he has worked on major products including leading the development of [Konga's online community](http://community.konga.com), an online community forum for Konga's merchants and customers. This project has gone on to save the company over $400,000 in annual licensing fee for a SaaS-based forum solution. He also served as the lead engineer for [SellerHQ](http://shq.konga.com) and online marketplace platform for Konga's over 12,000 stores.
+He developed the Standard Alliance Insurance Solution (PMIS- Passengers Manifest Insurance Solution), Goldlink Pin Generation Algorithm and The NURTW (Nigerian Union of Road Transport Workers) Passenger’s Insurance Solution for Wapic Insurance. He also developed Online Admission Application System using scratch for All Nations University College, Ghana.
 
-Celestine is also the lead maintainer and developer of [NSEFinance](http://nsefinance.com), an experimental API for the Nigerian
-Stock Exchange. He is also the convener of [The Lagos GitHub meetup](http://lagosmeet.github.io). Celestine was the founding manager of the Calabar Google Developer Group.
+He headed the testing team for Vodafone, Tigo, and Airtel Via Vas2nets Ghana. 
 
-Prior to Konga, Celestine worked at a law firm where he lead the development of an electronic law management system.
+He holds a Bachelor of Engineering (BEng) Degree in Computer Engineering from Kwame Nkrumah' University of Science and Technology, Kumasi, Ghana, and a Certified Software Tester from Brain Bench USA. He is a Trained Robotics Designer from the Metro Institute of Innovation and Technology Ghana. He is also a Professional Member of IEEE Institute of Electrical and Electronics Engineers, NSBE National Society of Black Engineers, IAENG International Association of Engineers and IEEE Computer Society.
 
-He is a University of Calabar graduate, he enjoys the game of table tennis and [@cyberomin](https://twitter.com/cyberomin) on Twitter.
 
-You want to talk? [Email me.](mailto:celestineomin@gmail.com)
+You want to talk? [Email me.](mailto:nnamsoanthony@gmail.com)

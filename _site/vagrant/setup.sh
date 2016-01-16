@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SERVICE="nnamsoanthony Blog"
+SERVICE="CyberOmin Blog"
 
 
 echo "Provisioning Development Environment for: $SERVICE"
