@@ -11,14 +11,14 @@ description: "Cognitive Virality"
 
 ###This research is as a result of my personal interest on why things go viral.
 
+<p>
+Virality of content circulated rapidly and widely from one Internet user to another: a viral ad campaign | the video went viral and was seen by millions.</p>
 
-Virality of content circulated rapidly and widely from one Internet user to another: a viral ad campaign | the video went viral and was seen by millions.
+<p>
+Virality the tendency of an image, video, or piece of information to be circulated rapidly and widely from one Internet user to another; the quality or fact of being viral: new metrics will allow marketers to better assess the virality of their campaigns. </p>
 
-
-Virality the tendency of an image, video, or piece of information to be circulated rapidly and widely from one Internet user to another; the quality or fact of being viral: new metrics will allow marketers to better assess the virality of their campaigns.
-
-
-More info will be disclosed soon. 
+<p>
+More info will be disclosed soon. </p>
 
 
 
