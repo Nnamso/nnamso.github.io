@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-
   <head>
   <meta charset="utf-8">
   <!-- (1) Optimize for mobile versions: http://goo.gl/EOpFl -->
@@ -8,7 +7,7 @@
   <!-- (1) force latest IE rendering engine: bit.ly/1c8EiC9 -->
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  <title>Nnamso Anthony</title>
+  <title>About</title>
   <meta name="description" content="A Computer Enginner with a keyboard 
 " />
 
@@ -19,7 +18,7 @@
 
   
 
-  <link rel="canonical" href="http://nnamso.github.io/">
+  <link rel="canonical" href="http://nnamso.github.io/about/">
 
   <link rel="shortcut icon" href="/assets/images/favicon.ico">
   <link rel="stylesheet" href="https://twitter.com/nnamso_"/>
@@ -31,111 +30,59 @@
   <link rel="stylesheet" type="text/css" media="print" href="/css/print.css" />
 </head>
 
-
-  <body>
-
+  <body itemscope itemtype="http://schema.org/Article">
+  
     <!-- header start -->
 
 <a href="http://nnamso.github.io" class="logo-readium"><span class="logo" style="background-image: url(/assets/images/author.jpg)"></span></a>
 
 <!-- header end -->
 
-
-    <!-- content start -->
-
-    <div class="page-content">
-      <div class="wrapper">
-        <div class="teaserimage">
-    <div class="teaserimage-image" style="background-image: url(/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg)">
-        Teaser Image
-    </div>
-</div>
-
-<header class="blog-header">
-    
-      <a class="blog-logo" href="http://nnamso.github.io" style="background-image: url('/assets/images/author.jpg')">Nnamso Anthony</a>
-    
-    <h1 class="blog-title">Nnamso Anthony</h1>
-    <h2 class="blog-description">A Computer Enginner with a keyboard 
-</h2>
-    <div class="custom-links">
-      
+    <!--<main class="content" role="main">
+      <article class="post">
         
-            <a class="icon-twitter" href="https://twitter.com/nnamso_">
-              <i class="fa fa-twitter"></i>
-            </a>
-            &nbsp;&nbsp;·&nbsp;&nbsp;
-        
-      
-        
-            <a class="icon-github" href="https://github.com/Nnamso">
-              <i class="fa fa-github"></i>
-            </a>
-            &nbsp;&nbsp;·&nbsp;&nbsp;
-        
-      
-        
-            <a class="icon-linkedin" href="https://gh.linkedin.com/in/nnamso-anthony-194a8a37">
-              <i class="fa fa-linkedin"></i>
-            </a>
-            &nbsp;&nbsp;·&nbsp;&nbsp;
-        
-      
-      <a href="/about/">About</a>
-    </div>
-</header>
-
-
-<main class="content" role="main">
-
-    
-
-    <div class="cf frame">
-      
-        <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
-          <div class="article-item">
-            <header class="post-header">
-              <h2 class="post-title" itemprop="name"><a href="/new/year/2016/01/01/My-Billion-Naira-Mistake.html" itemprop="url">My Billion Naira Mistake</a></h2>
-            </header>
-            <section class="post-excerpt" itemprop="description">
-              <p>So today I have made up my mind to start a new blog. I have no idea where to start, or what I will be writing about. I am clueless at the moment. Few years from now, I want to tell people that when I started this blog, I had...</p>
-            </section>
-            <div class="post-meta">
-              <time datetime="01 January 2016">01 January 2016</time>
-<!--            <span class="post-tags-set">on <span class="post-tag-">, <a href="/tag/"></a></span></span>-->
+        <div class="noarticleimage">
+          <div class="post-meta">
+            <h1 class="post-title">About</h1>
+            <div class="cf post-meta-text">
+              <div class="author-image" style="background-image: url()">Blog Logo</div>
+              <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person"></h4>
             </div>
           </div>
-        </article>
-      
-    </div>
+        </div>
+        <br>
+        <br>
+        <br>-->
+        
+        <section class="post-content">
+          <a name="topofpage"></a>
+          <p>Celestine is a Software Engineer at Konga, an $80m VC-backed eCommerce company. </p>
 
-    <nav class="pagination" role="navigation">
-      
-      <span class="page-number">Page 1 of 1</span>
-      
-    </nav>
+<p>In this role he has worked on major products including leading the development of <a href="http://community.konga.com">Konga&#39;s online community</a>, an online community forum for Konga&#39;s merchants and customers. This project has gone on to save the company over $400,000 in annual licensing fee for a SaaS-based forum solution. He also served as the lead engineer for <a href="http://shq.konga.com">SellerHQ</a> and online marketplace platform for Konga&#39;s over 12,000 stores.</p>
 
+<p>Celestine is also the lead maintainer and developer of <a href="http://nsefinance.com">NSEFinance</a>, an experimental API for the Nigerian
+Stock Exchange. He is also the convener of <a href="http://lagosmeet.github.io">The Lagos GitHub meetup</a>. Celestine was the founding manager of the Calabar Google Developer Group.</p>
 
-    <!-- 
-     -->
+<p>Prior to Konga, Celestine worked at a law firm where he lead the development of an electronic law management system.</p>
 
-</main>
+<p>He is a University of Calabar graduate, he enjoys the game of table tennis and <a href="https://twitter.com/cyberomin">@cyberomin</a> on Twitter.</p>
 
+<p>You want to talk? <a href="mailto:celestineomin@gmail.com">Email me.</a></p>
+
+        </section>
+      </article>
+    </main>
+    <div class="bottom-closer">
+      <div class="background-closer-image"  style="background-image: url(/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg)">
+        Image
+      </div>
+      <div class="inner">
+        <h1 class="blog-title">Nnamso Anthony</h1>
+        <h2 class="blog-description">A Computer Enginner with a keyboard 
+</h2>
+        <a href="/" class="btn">Back to Overview</a>
       </div>
     </div>
-
-    <!-- content end -->
-
-    <!-- footer start -->
-<footer class="site-footer">
-  <a class="subscribe" href="/feed.xml"> <span class="tooltip"> <i class="fa fa-rss"></i> Subscribe!</span></a>
-    <div class="inner">
-        <section class="copyright"> &copy; 2016 &bull; All rights reserved.</section>
-    </div>
-</footer>
-
-<!-- footer end -->
-
     <!--<embed src="https://twitter.com/nnamso_" width="0" height="0" tabindex="-1" title="empty"></embed>
 <img src="https://twitter.com/nnamso_" style="position: absolute; margin-top: -20px; z-index: -999999" class="my_link"/>-->
 <script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
@@ -173,7 +120,5 @@ alt="shopify site analytics"></a></div></noscript>
 
 
 
-
   </body>
-
 </html>
