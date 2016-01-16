@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "Blogging With Jekyll"
@@ -56,3 +55,5 @@ There is no inbuilt commenting system like Wordpress or Blogger. But you can alw
 
 ##Conclusion
 Blogging on Github pages is a big yes. If you are looking for a platform for your blog or next project, give it a shot.
+
+
