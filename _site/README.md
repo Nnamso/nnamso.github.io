@@ -1,1 +1,11 @@
-To run on vagrant type `jekyll serve --host 0.0.0.0` and open `0.0.0.0:4000` on your browser
+# nnamso.github.io
+My Blog 
+
+~ Ideas worth spreding 
+
+
+localhost:4000
+
+Run
+
+jekyll serve 

@@ -22,8 +22,8 @@ paginate:	5
 url: "http://nnamso.github.io" # the base hostname & protocol for your site
 baseurl: ""
 
-#used to display twitter cards
-twitter_handle: '@nnamso_'
+
+
 
 # social icons and sharing options
 social:
