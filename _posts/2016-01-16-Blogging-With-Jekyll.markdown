@@ -8,9 +8,9 @@ description: "Blogging With Jekyll"
 ---
 
 
-<img src="{{ site.url }}/assets/images/nnamso1.png"/>
+<img src="{{ site.url }}/assets/images/jekyll-logo.png"/>
 
-<img src="{{ site.url }}/assets/images/blogging-with-jekyll/jekyll-logo.png"/>
+<img src="{{ site.url }}/assets/article_images/blogging-with-jekyll/jekyll-logo.png"/>
 
 I recently came across a blog by <a http://www.obem.be > Opeyemi <a/> and i decided to share his article instead of writing the same article about jekyll.
 
