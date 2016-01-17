@@ -2,13 +2,167 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nnamso Anthony</title>
-    <description>A Computer Enginner with a keyboard 
+    <description>A Computer Engineer with a keyboard 
 </description>
     <link>http://nnamso.github.io/</link>
     <atom:link href="http://nnamso.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 16 Jan 2016 05:07:57 +0100</pubDate>
-    <lastBuildDate>Sat, 16 Jan 2016 05:07:57 +0100</lastBuildDate>
+    <pubDate>Sun, 17 Jan 2016 23:46:27 +0100</pubDate>
+    <lastBuildDate>Sun, 17 Jan 2016 23:46:27 +0100</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Building An Empire</title>
+        <description>&lt;p&gt;I LOVE THE WORD: Connecting the Dot. &lt;/p&gt;
+
+&lt;p&gt;I have been connecting the dot for a while now. &lt;/p&gt;
+
+&lt;p&gt;I am building an empire. In the interest of helping people who might otherwise be inclined to believe that Stuff Just Happens, I thought I’d share my plan with you.&lt;/p&gt;
+
+&lt;p&gt;Now, before I am rich and famous, so when people accuse me of being disingenuous when I say I make my own luck, I can say “hey&amp;quot; didn’t you read my blog?”My plan is a twist on this simple and well-known classic:&lt;/p&gt;
+
+&lt;p&gt;Watch Youtube.
+???
+Profit!
+Maybe play video games…
+OK, My real goal is to:&lt;/p&gt;
+
+&lt;p&gt;[1] Make kickass software and change the world for the better. And make the world a better place.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-cpp&quot; data-lang=&quot;cpp&quot;&gt;&lt;span class=&quot;cp&quot;&gt;#include &amp;lt;chrono&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;cp&quot;&gt;#include &amp;lt;thread&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;using&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;namespace&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;std&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;literals&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;chrono_literals&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;some_complex_work&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;using&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;clock&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;std&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;chrono&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;steady_clock&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;clock&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;time_point&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;next_time_point&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;clock&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;now&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;s&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;some_complex_work&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;std&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;this_thread&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;sleep_until&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;next_time_point&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;[2] Inspire &amp;amp; help a thousand designers/developers to launch their own products&lt;/p&gt;
+
+&lt;p&gt;[3] Make alot of money&lt;/p&gt;
+
+&lt;p&gt;[4] Yes, I want to be rich, famous, and influential. is that all? Well, I think so. Wouldn’t want to be greedy, now!&lt;/p&gt;
+
+&lt;p&gt;Plan or do not plan, there is no luck&lt;/p&gt;
+
+&lt;p&gt;If you take yourself seriously, you have to plan. If you don’t take yourself seriously, you don’t have to plan — and, as we all know, a failure to plan, plan to fail, are irritating and empty-sounding due to their worn-out-ness — like Avril Lavigne. But, unlike Avril Lavigne, the very reason they are worn out is because they’re right.&lt;/p&gt;
+
+&lt;p&gt;Planning is a love letter to your future. &lt;/p&gt;
+
+&lt;p&gt;I take myself seriously. And I loooooove my future and want it to feel that special love through time! So I plan.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nnamso.github.io/assets/article_images/empire-an-empire/empire.png&quot;/&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 16 Jan 2016 11:27:00 +0100</pubDate>
+        <link>http://nnamso.github.io/general/2016/01/16/Building-An-Empire.html</link>
+        <guid isPermaLink="true">http://nnamso.github.io/general/2016/01/16/Building-An-Empire.html</guid>
+        
+        
+        <category>general</category>
+        
+      </item>
+    
+      <item>
+        <title>Cognitive Virality</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://nnamso.github.io/assets/article_images/cognitive-virality/cognitive-virality.png&quot;/&gt;&lt;/p&gt;
+
+&lt;h3&gt;This research is as a result of my personal interest on why things go viral.&lt;/h3&gt;
+
+&lt;p&gt;
+Virality of content circulated rapidly and widely from one Internet user to another: a viral ad campaign | the video went viral and was seen by millions.&lt;/p&gt;
+
+&lt;p&gt;
+Virality the tendency of an image, video, or piece of information to be circulated rapidly and widely from one Internet user to another; the quality or fact of being viral: new metrics will allow marketers to better assess the virality of their campaigns. &lt;/p&gt;
+
+&lt;p&gt;
+More info will be disclosed soon. &lt;/p&gt;
+</description>
+        <pubDate>Sat, 16 Jan 2016 10:30:00 +0100</pubDate>
+        <link>http://nnamso.github.io/general/2016/01/16/Cognitive-virality.html</link>
+        <guid isPermaLink="true">http://nnamso.github.io/general/2016/01/16/Cognitive-virality.html</guid>
+        
+        
+        <category>general</category>
+        
+      </item>
+    
+      <item>
+        <title>Blogging With Jekyll</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://nnamso.github.io/assets/article_images/blogging-with-jekyll/jekyll-logo.png&quot;/&gt;&lt;/p&gt;
+
+&lt;p&gt;I recently came across a blog by &lt;a http://www.obem.be &gt; Opeyemi &lt;a/&gt; and i decided to share his article instead of writing the same article about jekyll.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://kehers.github.io/2013/02/20/moved.html&quot;&gt;I moved my blog&lt;/a&gt; to [Jekyll on] Github pages a while ago and I&amp;#39;ve enjoyed every bit of it. Then it was because it felt like a geeky thing to do. But now I can list a couple of reasons it was the right move. And this should help others that need conviction too. &lt;/p&gt;
+
+&lt;h3&gt;The new cool&lt;/h3&gt;
+
+&lt;p&gt;When was the last time you tried something geeky; something different and more adventurous than your average blogging platform? If you want to try something totally different or test your geekiness, Jekyll on Github pages is the way to go. I highly recommend this if you are new to file version control with Git. You will learn the basics of file versioning and may even get to do some things via command line.&lt;/p&gt;
+
+&lt;h3&gt;Fast&lt;/h3&gt;
+
+&lt;p&gt;Your content is hosted on the powerful servers of Github - as static files. No server processing at each page request. This makes your site very fast. &lt;/p&gt;
+
+&lt;h3&gt;Flexible&lt;/h3&gt;
+
+&lt;p&gt;You get the best control over your content on Github pages. Every post on your blog can be an experiment on it&amp;#39;s own. You can embed scripts, forms or even make the post page totally different. &lt;/p&gt;
+
+&lt;p&gt;Really, Github pages is more than just a blog. It can be anything you want it to be. You can use it to create a portfolio, a web app landing page or even a full website site. &lt;/p&gt;
+
+&lt;h3&gt;Open Collaboration&lt;/h3&gt;
+
+&lt;p&gt;Unless you choose otherwise, your blog content is available on your public repo and anyone can collaborate with you on post and content editing. The source of this blog for example is available at &lt;a href=&quot;http://github.com/kehers/kehers.github.com&quot;&gt;github.com/kehers/kehers.github.com&lt;/a&gt;. To contribute or make corrections, you just make a copy (fork), do what you want to and notify me of the changes to accept or not (do a pull request).&lt;/p&gt;
+
+&lt;h3&gt;Versioning&lt;/h3&gt;
+
+&lt;p&gt;Changes made to your posts and files are tracked and you can always roll back should you mess things up. Think of this as an undo for everything you do. In other words, you are free to make mistakes and experiment as much as you like because you can always revert to the last stable version.&lt;/p&gt;
+
+&lt;h3&gt;Your content, your domain name&lt;/h3&gt;
+
+&lt;p&gt;You own your files. You can sync them to any device you have a git client on and play with them locally. If tomorrow you don&amp;#39;t feel comfortable with Github, you can decide to host your content elsewhere.  And yes, you can use your own domain or sub domain name. &lt;/p&gt;
+
+&lt;h3&gt;Simple and Secure&lt;/h3&gt;
+
+&lt;p&gt;On Github pages, you don&amp;#39;t have to worry about your blog getting hacked. Or having to upgrade to the latest software release. Or a new security vulnerability somewhere. Or complex admin dashboards, security options and plugins. Remember, your blog is made up of static files - even your posts. And can be synced to your devices; plus you can always roll back to previous versions.&lt;/p&gt;
+
+&lt;h2&gt;Cons&lt;/h2&gt;
+
+&lt;p&gt;This doesn&amp;#39;t mean everything is perfect with Github pages. Here are some of things that can be discouraging.&lt;/p&gt;
+
+&lt;h3&gt;Geeky setup&lt;/h3&gt;
+
+&lt;p&gt;Yeah, I know I mentioned the geeky setup nature can be fun, but if you are not really up for it, it can be a push off. It can get more tiring when you have to setup or customize your own template. What many people want is to just login and start blogging immediately. &lt;/p&gt;
+
+&lt;h3&gt;Missing dashboard&lt;/h3&gt;
+
+&lt;p&gt;There is no dashaboard to manage post or tweak things. And this is always a shocker to first timers. Having to locally create a file for a post and push back to the Github page repo can sometimes be a long way to go. &lt;/p&gt;
+
+&lt;h3&gt;Automation&lt;/h3&gt;
+
+&lt;p&gt;Many blogging platform come with automation tools like &lt;strong&gt;post later&lt;/strong&gt;, &lt;strong&gt;auto post to Twitter, Facebook&lt;/strong&gt;, &lt;strong&gt;post via email&lt;/strong&gt; and many more. Unfortunately, you won&amp;#39;t find this on Github pages.&lt;/p&gt;
+
+&lt;h3&gt;Commenting&lt;/h3&gt;
+
+&lt;p&gt;There is no inbuilt commenting system like Wordpress or Blogger. But you can always use embeddable commenting systems like &lt;a href=&quot;http://disqus.com/&quot;&gt;Disqus&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2&gt;The good news&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://tinypress.co&quot;&gt;Tinypress&lt;/a&gt; solves most of these. Instead of the geeky setup, you can simply login, select a theme and you are good to go. You are given a subtle inteface to create, edit and delete posts. There is also a growing list of tools to make your blogging experience better.&lt;/p&gt;
+
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Blogging on Github pages is a big yes. If you are looking for a platform for your blog or next project, give it a shot.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 16 Jan 2016 03:30:00 +0100</pubDate>
+        <link>http://nnamso.github.io/general/2016/01/16/Blogging-With-Jekyll.html</link>
+        <guid isPermaLink="true">http://nnamso.github.io/general/2016/01/16/Blogging-With-Jekyll.html</guid>
+        
+        
+        <category>general</category>
+        
+      </item>
     
       <item>
         <title>My Billion Naira Mistake</title>
