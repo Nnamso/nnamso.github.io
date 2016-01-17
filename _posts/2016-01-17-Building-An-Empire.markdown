@@ -50,4 +50,3 @@ Planning is a love letter to your future.
 
 I take myself seriously. And I loooooove my future and want it to feel that special love through time! So I plan.
 
-<img src="{{ site.url }}/assets/article_images/empire-an-empire/empire.png"/>
