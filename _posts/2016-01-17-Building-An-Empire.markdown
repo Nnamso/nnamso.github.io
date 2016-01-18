@@ -30,7 +30,7 @@ OK, My real goal is to:
 
 Plan or do not plan, there is no luck
 
-If you take yourself seriously, you have to plan. If you don’t take yourself seriously, you don’t have to plan — and, as we all know, a failure to plan, plan to fail, are irritating and empty-sounding due to their worn-out-ness — like Avril Lavigne. But, unlike Avril Lavigne, the very reason they are worn out is because they’re right.
+If you take yourself seriously, you have to plan. If you don’t take yourself seriously, you don’t have to plan — and, as we all know, a failure to plan, is a plan to fail.
 
 Planning is a love letter to your future. 
 
