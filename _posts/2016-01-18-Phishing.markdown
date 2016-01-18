@@ -8,6 +8,8 @@ description: "Phishing"
 
 
 
+<img src="https://media.licdn.com/mpr/mpr/jc/p/3/005/0ae/202/21dc89e.jpg"/>
+
 Phishing is the attempt to acquire sensitive information such as usernames, passwords, and credit card details (and sometimes, indirectly, money) by masquerading as a trustworthy entity in an electronic communication.
 
 Phishing is a continual threat that keeps growing to this day. The risk grows even larger as Internet audience keeps increasing and it shows no sign of slowing down. You don’t have to be a hacker or get a 419-degree from Harvard only if that exist. It will take less than 10 minute to clone the UI (user interface) of any site online depending on the site size.
