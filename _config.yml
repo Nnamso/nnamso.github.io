@@ -1,6 +1,8 @@
 # Build settings
 markdown: redcarpet
 highlighter: pygments
+#Draft
+future: false
   
 # Site settings
 title: "Nnamso Anthony"
