@@ -3,7 +3,7 @@ markdown: redcarpet
 highlighter: pygments
 #Draft
 future: false
-  
+
 # Site settings
 title: "Nnamso Anthony"
 description: > # this means to ignore newlines until "email:"
@@ -56,6 +56,9 @@ social:
     share_url:
     share_title:
     share_link:
+
+
+
 
     #  - icon:  google-plus
 #    url: https://google.com/???
