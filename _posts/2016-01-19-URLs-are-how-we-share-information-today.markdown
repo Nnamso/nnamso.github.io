@@ -2,7 +2,7 @@
 ---
 layout: post
 title:  "URLs are how we share information today"
-date:   2016-01-19 12:13:00
+date:   2016-01-18 11:23:00
 categories: general
 description: "URLs are how we share information today"
 ---
