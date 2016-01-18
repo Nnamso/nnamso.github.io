@@ -1,0 +1,64 @@
+---
+layout: post
+title:  "Phishing"
+date:   2016-01-18 07:13:00
+categories: security
+description: "Phishing"
+---
+
+
+
+Phishing is the attempt to acquire sensitive information such as usernames, passwords, and credit card details (and sometimes, indirectly, money) by masquerading as a trustworthy entity in an electronic communication.
+
+Phishing is a continual threat that keeps growing to this day. The risk grows even larger as Internet audience keeps increasing and it shows no sign of slowing down. You don’t have to be a hacker or get a 419-degree from Harvard only if that exist. It will take less than 10 minute to clone the UI (user interface) of any site online depending on the site size.
+
+So how does this work?
+
+Let say you own Amazon.com and I want to get peoples credit card number.
+
+Simple
+
+I will just have to buy Ammazon.com or Amazon.org clone the UI (user interface) upload it a server and that’s it. A user who doesn’t pay attention to URL then you have been served.
+
+Once I get the card details into my database I will just redirect you to the original site and it’s that simple.
+
+Ok, my reason for writing this article is that a company hired me to do a background check on a company they wanted to buy from in Thailand.
+
+Long story short
+
+After backtracking this company that literally doesn’t actually exist, I found out that they had two fake websites
+
+This first URL Claim to be the real site and referred to the second site as fake.
+
+Pitoon Kan: In his words; they are fraud and they are hackers.
+
+These made me recall the saying: A pot calling a kettle black
+
+1) http://kanokpitonepaperindustrial.com/
+
+2) http://kanokpitonepaperindustry.com/
+
+Meanwhile the truth is that they are both fake site
+
+Their plan was to make my client believe that the first site is genuine and the second one was not the genuine site. That will make him transfer the fund to them.
+
+So I requested to talk to them on Skype.
+
+After a short conversation with the two parties they refuse to show up their faces.
+
+They said they use desktop system in their offices so they can’t do video call.
+
+That’s just a trick to say f*ck you I cant show you my face.
+
+Please don’t transfer money to anyone account except you are using payment gateway like PayPal, visa, MasterCard etc. I say that because the bank at list has their details, I mean the account holder.
+
+Don’t be deceived
+
+Don’t forget to do background check first. Don’t let your emotions guide you and don’t be greedy. 95% percent of Internet fraud was accomplished because the defaulter was also a greedy person.
+
+Don’t claim any money from Nigerian prince lol its not yours. Thanks
+
+That’s how my client would have lost $1400. It might be small who know what would have happened next.
+
+Once I publish this article I will send them the link.
+

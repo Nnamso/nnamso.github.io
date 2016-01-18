@@ -6,9 +6,74 @@
 </description>
     <link>http://nnamso.github.io/</link>
     <atom:link href="http://nnamso.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 18 Jan 2016 18:25:30 +0100</pubDate>
-    <lastBuildDate>Mon, 18 Jan 2016 18:25:30 +0100</lastBuildDate>
+    <pubDate>Mon, 18 Jan 2016 19:32:42 +0100</pubDate>
+    <lastBuildDate>Mon, 18 Jan 2016 19:32:42 +0100</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Phishing</title>
+        <description>&lt;p&gt;Phishing is the attempt to acquire sensitive information such as usernames, passwords, and credit card details (and sometimes, indirectly, money) by masquerading as a trustworthy entity in an electronic communication.&lt;/p&gt;
+
+&lt;p&gt;Phishing is a continual threat that keeps growing to this day. The risk grows even larger as Internet audience keeps increasing and it shows no sign of slowing down. You don’t have to be a hacker or get a 419-degree from Harvard only if that exist. It will take less than 10 minute to clone the UI (user interface) of any site online depending on the site size.&lt;/p&gt;
+
+&lt;p&gt;So how does this work?&lt;/p&gt;
+
+&lt;p&gt;Let say you own Amazon.com and I want to get peoples credit card number.&lt;/p&gt;
+
+&lt;p&gt;Simple&lt;/p&gt;
+
+&lt;p&gt;I will just have to buy Ammazon.com or Amazon.org clone the UI (user interface) upload it a server and that’s it. A user who doesn’t pay attention to URL then you have been served.&lt;/p&gt;
+
+&lt;p&gt;Once I get the card details into my database I will just redirect you to the original site and it’s that simple.&lt;/p&gt;
+
+&lt;p&gt;Ok, my reason for writing this article is that a company hired me to do a background check on a company they wanted to buy from in Thailand.&lt;/p&gt;
+
+&lt;p&gt;Long story short&lt;/p&gt;
+
+&lt;p&gt;After backtracking this company that literally doesn’t actually exist, I found out that they had two fake websites&lt;/p&gt;
+
+&lt;p&gt;This first URL Claim to be the real site and referred to the second site as fake.&lt;/p&gt;
+
+&lt;p&gt;Pitoon Kan: In his words; they are fraud and they are hackers.&lt;/p&gt;
+
+&lt;p&gt;These made me recall the saying: A pot calling a kettle black&lt;/p&gt;
+
+&lt;p&gt;1) http://kanokpitonepaperindustrial.com/&lt;/p&gt;
+
+&lt;p&gt;2) http://kanokpitonepaperindustry.com/&lt;/p&gt;
+
+&lt;p&gt;Meanwhile the truth is that they are both fake site&lt;/p&gt;
+
+&lt;p&gt;Their plan was to make my client believe that the first site is genuine and the second one was not the genuine site. That will make him transfer the fund to them.&lt;/p&gt;
+
+&lt;p&gt;So I requested to talk to them on Skype.&lt;/p&gt;
+
+&lt;p&gt;After a short conversation with the two parties they refuse to show up their faces.&lt;/p&gt;
+
+&lt;p&gt;They said they use desktop system in their offices so they can’t do video call.&lt;/p&gt;
+
+&lt;p&gt;That’s just a trick to say f*ck you I cant show you my face.&lt;/p&gt;
+
+&lt;p&gt;Please don’t transfer money to anyone account except you are using payment gateway like PayPal, visa, MasterCard etc. I say that because the bank at list has their details, I mean the account holder.&lt;/p&gt;
+
+&lt;p&gt;Don’t be deceived&lt;/p&gt;
+
+&lt;p&gt;Don’t forget to do background check first. Don’t let your emotions guide you and don’t be greedy. 95% percent of Internet fraud was accomplished because the defaulter was also a greedy person.&lt;/p&gt;
+
+&lt;p&gt;Don’t claim any money from Nigerian prince lol its not yours. Thanks&lt;/p&gt;
+
+&lt;p&gt;That’s how my client would have lost $1400. It might be small who know what would have happened next.&lt;/p&gt;
+
+&lt;p&gt;Once I publish this article I will send them the link.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 18 Jan 2016 08:13:00 +0100</pubDate>
+        <link>http://nnamso.github.io/security/2016/01/18/Phishing.html</link>
+        <guid isPermaLink="true">http://nnamso.github.io/security/2016/01/18/Phishing.html</guid>
+        
+        
+        <category>security</category>
+        
+      </item>
     
       <item>
         <title>Building An Empire</title>
