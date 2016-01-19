@@ -67,3 +67,20 @@ social:
 
     # Gems
 gems: [jekyll-paginate]
+
+
+
+
+
+encoding: utf-8
+
+# Build settings
+# markdown: redcarpet
+# highlighter: pygments
+# extensions: [tables fenced_code_blocks]
+
+exclude: [vendor]
+kramdown:
+   input: GFM
+gems:
+  - jekyll-sitemap

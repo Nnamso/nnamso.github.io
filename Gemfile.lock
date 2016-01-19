@@ -127,7 +127,6 @@ GEM
     pygments.rb (0.6.3)
       posix-spawn (~> 0.3.6)
       yajl-ruby (~> 1.2.0)
-    rake (0.9.6)
     rb-fsevent (0.9.7)
     rb-inotify (0.9.5)
       ffi (>= 0.5.0)
@@ -155,7 +154,8 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   html-proofer
-  rake
+  jekyll
+  jekyll-sitemap
 
 BUNDLED WITH
    1.11.2
