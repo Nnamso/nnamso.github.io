@@ -2,7 +2,7 @@
 layout: post
 title:  "Jekyll Test Automation"
 date:   2016-01-18 11:23:00
-categories: general
+categories: testing
 description: "Jekyll Test Automation"
 ---
 
