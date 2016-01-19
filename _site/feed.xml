@@ -6,24 +6,9 @@
 </description>
     <link>http://nnamso.github.io/</link>
     <atom:link href="http://nnamso.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 19 Jan 2016 14:35:13 +0100</pubDate>
-    <lastBuildDate>Tue, 19 Jan 2016 14:35:13 +0100</lastBuildDate>
+    <pubDate>Tue, 19 Jan 2016 20:09:11 +0100</pubDate>
+    <lastBuildDate>Tue, 19 Jan 2016 20:09:11 +0100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
-    
-      <item>
-        <title>URLs are how we share information today</title>
-        <description>&lt;p&gt;Hundreds of years ago, the way humans shared information was through storytelling. Writing and the printing press shifted things towards written communication (passing around dead trees to share information), and the internet shifted us once again to the digital. Today, the primary means of sharing information with another human is through a URL. Maybe in 10 years we’ll have virtual 3D worlds and you’ll describe directions to walk to a virtual location to get information, but for now, URLs are the primary means by which an idea can be widely shared, and it does so by assigning a globally unique identifier to each. Want to share a Premium Times article? Send them a URL. A product on Konga? A funny Tweet? Whether you realize it or not, every major online system we use today creates unique URLs for each distinct idea.&lt;/p&gt;
-
-&lt;p&gt;Ask yourself this: Has your organization’s workflow changed much since the Cold War? Since the advent of the internet? If you swapped out your laptop for a typewriter and email for inter-office couriers would the way you work be all that fundamentally different? From video conferencing to a distributed workforce to real-time chat, the tools available to organizations has radically shifted. Shouldn’t our workflows improve as a result of that shift, at least a little?&lt;/p&gt;
-</description>
-        <pubDate>Mon, 18 Jan 2016 12:23:00 +0100</pubDate>
-        <link>http://nnamso.github.io/general/2016/01/18/URLs.html</link>
-        <guid isPermaLink="true">http://nnamso.github.io/general/2016/01/18/URLs.html</guid>
-        
-        
-        <category>general</category>
-        
-      </item>
     
       <item>
         <title>Jekyll Test Automation</title>
@@ -37,9 +22,24 @@
 
 &lt;p&gt;With CI services like &lt;a href=&quot;https://travis-ci.org/&quot;&gt;Travis CI&lt;/a&gt;, whether public or private, adding continuous integration to a repository of prose content, whether an entire website or a collection of HTML or Markdown files becomes trivial, especially when you use open source tools like &lt;a href=&quot;https://github.com/gjtorikian/html-proofer&quot;&gt;HTML Proofer&lt;/a&gt;.&lt;/p&gt;
 </description>
+        <pubDate>Tue, 19 Jan 2016 12:23:00 +0100</pubDate>
+        <link>http://nnamso.github.io/general/2016/01/19/Jekyll-Test-Automation.html</link>
+        <guid isPermaLink="true">http://nnamso.github.io/general/2016/01/19/Jekyll-Test-Automation.html</guid>
+        
+        
+        <category>general</category>
+        
+      </item>
+    
+      <item>
+        <title>URLs are how we share information today</title>
+        <description>&lt;p&gt;Hundreds of years ago, the way humans shared information was through storytelling. Writing and the printing press shifted things towards written communication (passing around dead trees to share information), and the internet shifted us once again to the digital. Today, the primary means of sharing information with another human is through a URL. Maybe in 10 years we’ll have virtual 3D worlds and you’ll describe directions to walk to a virtual location to get information, but for now, URLs are the primary means by which an idea can be widely shared, and it does so by assigning a globally unique identifier to each. Want to share a Premium Times article? Send them a URL. A product on Konga? A funny Tweet? Whether you realize it or not, every major online system we use today creates unique URLs for each distinct idea.&lt;/p&gt;
+
+&lt;p&gt;Ask yourself this: Has your organization’s workflow changed much since the Cold War? Since the advent of the internet? If you swapped out your laptop for a typewriter and email for inter-office couriers would the way you work be all that fundamentally different? From video conferencing to a distributed workforce to real-time chat, the tools available to organizations has radically shifted. Shouldn’t our workflows improve as a result of that shift, at least a little?&lt;/p&gt;
+</description>
         <pubDate>Mon, 18 Jan 2016 12:23:00 +0100</pubDate>
-        <link>http://nnamso.github.io/general/2016/01/18/Jekyll-Test-Automation.html</link>
-        <guid isPermaLink="true">http://nnamso.github.io/general/2016/01/18/Jekyll-Test-Automation.html</guid>
+        <link>http://nnamso.github.io/general/2016/01/18/urls.html</link>
+        <guid isPermaLink="true">http://nnamso.github.io/general/2016/01/18/urls.html</guid>
         
         
         <category>general</category>
