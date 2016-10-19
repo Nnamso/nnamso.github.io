@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "THE END OF APP STORES"
+title:  "The Disadvantages of Single Page Applications"
 date:   2016-10-19 9:11:00
 categories: tech
-description: "The disadvantages of Single Page Applications"
+description: "The Disadvantages of Single Page Applications"
 ---
 
 ### The disadvantages of Single Page Applications
