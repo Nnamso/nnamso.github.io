@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://nnamso.github.io/tech/2017/01/14/How-many-tabs-can-you-open-on-google-chrome.html</loc>
+    <lastmod>2017-01-14T04:33:00+01:00</lastmod>
+  </url>
+  <url>
+    <loc>http://nnamso.github.io/tech/2016/10/19/The-Disadvantage-Of-Single-Pahe-Applications.html</loc>
+    <lastmod>2016-10-19T10:11:00+01:00</lastmod>
+  </url>
+  <url>
     <loc>http://nnamso.github.io/tech/2016/01/27/The-End-Of-App-Stores.html</loc>
     <lastmod>2016-01-27T10:46:00+01:00</lastmod>
   </url>
@@ -44,5 +52,11 @@
   </url>
   <url>
     <loc>http://nnamso.github.io/</loc>
+  </url>
+  <url>
+    <loc>http://nnamso.github.io/page2/</loc>
+  </url>
+  <url>
+    <loc>http://nnamso.github.io/page3/</loc>
   </url>
 </urlset>
